@@ -59,6 +59,9 @@ input:focus {
     height: 33rem;
     width: 35rem;
 }
+.img2{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
 @media(max-width: 991px){
     #s{
         display: block;
